@@ -9,7 +9,7 @@
 - Description
 - Links
 
-# Education
+## Education
 - Computer Science- TEI of Thessaloniki
 - Data Analysis Professional- Workearly
 
