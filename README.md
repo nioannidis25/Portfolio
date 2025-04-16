@@ -13,3 +13,7 @@
 # Education
 - Computer Science- TEI of Thessaloniki
 - Data Analysis Professional- Workearly
+
+### Contact
+- 📧 ioannickos@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/ioannidis-nikos/)
