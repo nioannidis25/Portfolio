@@ -1,15 +1,15 @@
 # Portfolio
 
-##Projects
+## Projects
 
-###Project 1
--Description
--Links
+### Project 1
+- Description
+- Links
 
-###Project 2
--Description
--Links
+### Project 2
+- Description
+- Links
 
-#Education
+# Education
 - Computer Science- TEI of Thessaloniki
 - Data Analysis Professional- Workearly
