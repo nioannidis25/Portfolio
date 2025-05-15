@@ -1,4 +1,4 @@
-# Nikolaos Ioannidis – Data Analyst Portfolio
+# Portfolio
 
 ## Projects
 
